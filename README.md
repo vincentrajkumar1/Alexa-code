@@ -6,5 +6,6 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/jranvijay/Alexa-code.git
 git push -u origin master
-Access key AKIAXX3P2QZC46UP2NL3
-Secret key: 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
+
+Secret key: c1QZsQSTKQnXFWwj+oCtcpirgaxhLA1gKQjbOaWp
+Access key:AKIAUAUN2TSRRDHWDLLK
